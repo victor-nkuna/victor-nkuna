@@ -2,7 +2,6 @@
 **Senior Software Tester** | Cape Town, South Africa  
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange)](https://aws.amazon.com/certification/)
-[![ISTQB Certified](https://img.shields.io/badge/ISTQB-Certified%20Tester-blue)](https://www.istqb.org/)
 
 ## 👨💻 Technical Profile
 
