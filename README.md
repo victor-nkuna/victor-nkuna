@@ -1,5 +1,5 @@
 # Victor Nkuna 🚀  
-**Senior Software Tester** | Cape Town, South Africa  
+** Software Tester** | Cape Town | Johhanesburg | Pretoria |Polokwane  South Africa  
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange)](https://aws.amazon.com/certification/)
 
